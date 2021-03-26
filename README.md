@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi 👋 
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=anotherso1a&show_icons=true&bg_color=20,e3fee6,f1f3f455&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=anotherso1a&show_icons=true&bg_color=20,e3fee6,f1f3f455&hide_border=true)](https://blog.anothersola.cn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anotherso1a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anotherso1a&layout=compact&bg_color=0,00000000,00000000&hide_border=true)](https://blog.anothersola.cn)
 
 <!--
 **anotherso1a/anotherso1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
