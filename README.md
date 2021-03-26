@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=anotherso1a&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anotherso1a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **anotherso1a/anotherso1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
