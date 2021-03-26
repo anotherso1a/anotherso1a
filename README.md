@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=anotherso1a&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=anotherso1a&show_icons=true&bg_color=20,e3fee6,f1f3f455&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anotherso1a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
